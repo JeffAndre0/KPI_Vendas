@@ -23,7 +23,7 @@ void MoveFile(string file){
         }
 }
 
-string folder = null;
+string? folder = null;
 
 var configuration = new ConfigurationBuilder()
     .SetBasePath(Directory.GetCurrentDirectory())

@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="EPPlus" Version="7.1.2" />
     <PackageReference Include="ExcelDataReader" Version="3.6.0" />
     <PackageReference Include="ExcelDataReader.Dataset" Version="3.6.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.design" Version="8.0.4">
